@@ -1,0 +1,21 @@
+{
+  "app_name": "Edu Solution",
+  "version": "1.0.8",
+  "build_date": "2025-10-15 18:42:42",
+  "platform": "web",
+  "features": [
+    "Student Management",
+    "Class Enrollment", 
+    "Photo Management with Delete",
+    "QR Attendance Tracking",
+    "Dual Class System",
+    "Multi-language Support (English/Khmer)",
+    "Form Caching",
+    "Progressive Web App (PWA)"
+  ],
+  "compatibility": {
+    "browsers": ["Chrome 88+", "Firefox 85+", "Safari 14+", "Edge 88+"],
+    "mobile": true,
+    "offline": true
+  }
+}
